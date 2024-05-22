@@ -51,7 +51,7 @@
                         </form>
                         <p class="mt-3">
                             Not registered?
-                            <a href="#">Create an
+                            <a href="signup.php">Create an
                                 account</a>
                         </p>
                     </div>
