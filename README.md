@@ -1,3 +1,3 @@
-##Sign Up and Login page
+## Sign Up and Login page
 
-#Database Connection
+# Database Connection
