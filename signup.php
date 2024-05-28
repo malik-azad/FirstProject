@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="https://unpkg.com/bootstrap@5.3.3/dist/css/bootstrap.min.css">
 <link rel="stylesheet" href="https://unpkg.com/bs-brain@2.0.4/components/registrations/registration-4/assets/css/registration-4.css">
-    <title>Database Connection</title>
+    <title>Database Connection Demo</title>
 </head>
 <body>
  <!-- Registration 4 - Bootstrap Brain Component -->
